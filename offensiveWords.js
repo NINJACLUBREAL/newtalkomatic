@@ -1732,6 +1732,18 @@ const OFFENSIVE_WORDS = [
   'wophead',
   'zip in the wire',
   'zipperhead'
+  '.net'
+'.cc'
+'.website'
+'wtf'
+'WTF'
+'F u'
+'f u'
+'f U'
+'F U'
+'Shut Up!'
+'Shut up.'
+'shut your Mouth'
 ];
 
 module.exports = OFFENSIVE_WORDS;
